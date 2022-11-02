@@ -1,0 +1,61 @@
+body{
+  font-family:Space Grotesk;
+  background-color:#F9F5EB;
+  color:#1C3879;
+  padding:50px;
+  text-align:center;
+  font-size: 18px;
+  line-height: normal;
+}
+
+h1,h2,h3{
+  font-family:Space Mono;
+  color:#607EAA;
+  line-height: normal;
+}
+
+li{
+  font-size: 40px;
+  display:inline;
+}
+
+a{
+  color: #607EAA;
+  text-decoration: none;
+}
+
+ul{
+  padding:0px;
+}
+
+#salesforce-link{
+  text-decoration:none;
+  color:#1798c1;
+  font-size:18px;
+  font-weight:bold;
+  transition:0.3s ease;
+}
+
+#salesforce-link:hover{
+  color:#A10035;
+
+}
+
+#profile-pic{
+  width:200px;
+  height:200px;
+  border-radius:50%;
+}
+
+.card{
+  background-color:white;
+  margin:10px auto;
+  border-radius:5px;
+  border:1px solid #EAEAEA;
+  padding: 0px 50px;
+}
+
+.container {
+  width: 800px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
